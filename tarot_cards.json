@@ -1,0 +1,115 @@
+{
+    "cards": [
+      {
+        "name": "Chariot",
+        "image": "chariot.png",
+        "meaning": "Victory, willpower, determination, and control. Mastery over emotions and focus on a goal. Represents overcoming obstacles and steering life in the right direction."
+      },
+      {
+        "name": "Death",
+        "image": "death.png",
+        "meaning": "Transformation, endings, and new beginnings. A necessary phase of letting go of the past to embrace the future. Symbolizes profound change and personal growth."
+      },
+      {
+        "name": "Devil",
+        "image": "devil.png",
+        "meaning": "Addiction, materialism, and bondage. Represents being trapped by desires or unhealthy attachments. Calls for awareness and liberation from self-imposed limitations."
+      },
+      {
+        "name": "Emperor",
+        "image": "emperor.png",
+        "meaning": "Authority, structure, and a father figure. Symbolizes stability, leadership, and taking control. Encourages using logic and reason to solve problems."
+      },
+      {
+        "name": "Empress",
+        "image": "empress.png",
+        "meaning": "Abundance, nurturing, and fertility. Represents growth, creativity, and connection to nature. A call to embrace self-care and nurture others with compassion."
+      },
+      {
+        "name": "Fool",
+        "image": "fool.png",
+        "meaning": "New beginnings, spontaneity, and innocence. Represents taking a leap of faith and trusting the journey. Encourages curiosity and freedom from fear of failure."
+      },
+      {
+        "name": "Hanged Man",
+        "image": "hanged_man.png",
+        "meaning": "Pause, surrender, and letting go. A time for reflection and gaining a new perspective. Encourages patience and sacrificing short-term gains for long-term benefits."
+      },
+      {
+        "name": "Hermit",
+        "image": "hermit.png",
+        "meaning": "Introspection, solitude, and inner guidance. Represents a need for self-discovery and wisdom. Encourages taking time alone to connect with your deeper self."
+      },
+      {
+        "name": "Hierophant",
+        "image": "hierophant.png",
+        "meaning": "Tradition, conformity, and spiritual wisdom. Represents learning from a mentor or joining a community. Encourages seeking guidance and aligning with shared beliefs."
+      },
+      {
+        "name": "High Priestess",
+        "image": "high_priestess.png",
+        "meaning": "Intuition, mystery, and the subconscious mind. Symbolizes inner wisdom and trust in your instincts. Encourages exploring the unknown and connecting with hidden truths."
+      },
+      {
+        "name": "Judgement",
+        "image": "judgement.png",
+        "meaning": "Judgement, rebirth, and inner calling. Represents self-reflection and evaluating past actions. Encourages embracing second chances and transformative change."
+      },
+      {
+        "name": "Justice",
+        "image": "justice.png",
+        "meaning": "Fairness, truth, and law. Represents accountability and ethical decisions. Encourages honesty and weighing all sides before making choices."
+      },
+      {
+        "name": "Lovers",
+        "image": "lovers.png",
+        "meaning": "Love, harmony, and relationships. Symbolizes unity, attraction, and emotional bonds. Encourages making heartfelt choices and valuing connections."
+      },
+      {
+        "name": "Magician",
+        "image": "magician.png",
+        "meaning": "Manifestation, resourcefulness, and power. Represents using your skills and talents to create success. Encourages action and focusing energy on goals."
+      },
+      {
+        "name": "Moon",
+        "image": "moon.png",
+        "meaning": "Illusion, fear, and intuition. Represents uncertainty and hidden truths. Encourages confronting fears and trusting your inner voice for guidance."
+      },
+      {
+        "name": "Star",
+        "image": "star.png",
+        "meaning": "Hope, inspiration, and renewal. Represents spiritual connection and faith in the future. Encourages optimism and trusting the universe's plan."
+      },
+      {
+        "name": "Strength",
+        "image": "strenght.png",
+        "meaning": "Courage, determination, and compassion. Represents inner strength and resilience. Encourages patience, calm, and taming emotions with grace."
+      },
+      {
+        "name": "Sun",
+        "image": "sun.png",
+        "meaning": "Positivity, fun, and success. Represents joy, vitality, and clarity. Encourages embracing happiness and celebrating achievements."
+      },
+      {
+        "name": "Temperance",
+        "image": "temperance.png",
+        "meaning": "Balance, moderation, and harmony. Represents blending opposites and finding the middle path. Encourages patience and creating peace in life."
+      },
+      {
+        "name": "Tower",
+        "image": "tower.png",
+        "meaning": "Upheaval, sudden change, and chaos. Represents disruption and breaking down false beliefs. Encourages rebuilding stronger foundations after change."
+      },
+      {
+        "name": "Wheel of Fortune",
+        "image": "wheel_of_fortune.png",
+        "meaning": "Luck, destiny, and life cycles. Represents turning points and the unpredictability of life. Encourages adapting to change and embracing new opportunities."
+      },
+      {
+        "name": "World",
+        "image": "world.png",
+        "meaning": "Completion, accomplishment, and fulfillment. Represents achieving goals and wholeness. Encourages celebrating success and embracing the next journey."
+      }
+    ]
+  }
+  
