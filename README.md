@@ -8,6 +8,8 @@ The **Tarot Reader App** is also a learning project designed to practice and und
 - **Random Card Draw**: Press a button to reveal a randomly selected tarot card with an image and detailed explanation.
 - **Modular Design**: The app is structured using classes and modules for better code organization and reusability.
 
+Simple app's UI: 
+![Tarot App UI](tarot_deck/app_ui.png)
 
 ### Purpose
 This project is intended as a hands-on way to learn and practice **OOP concepts** concepts in Python, alongside developing a functional application.
