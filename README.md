@@ -9,7 +9,7 @@ The **Tarot Reader App** is also a learning project designed to practice and und
 - **Modular Design**: The app is structured using classes and modules for better code organization and reusability.
 
 Simple app's UI: 
-![Tarot Reader UI](tarot_deck/app_ui.png)
+![Tarot App UI](tarot_deck/app_ui.png)
 
 ### Purpose
 This project is intended as a hands-on way to learn and practice **OOP concepts** concepts in Python, alongside developing a functional application.
