@@ -13,7 +13,6 @@ class TarotDeck:
                 if "cards" not in data:
                     raise ValueError("Invalid file format: Missing 'cards' key.")
                 self.cards = data["cards"]
-                print(f"Successfully loaded {len(self.cards)} cards.")
         except Exception as e:
             print(f"Error: {e}")
             
